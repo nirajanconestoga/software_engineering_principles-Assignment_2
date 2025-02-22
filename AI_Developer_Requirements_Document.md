@@ -92,3 +92,9 @@ The functional requirements describe what the system should provide to fulfill t
 
 ### 1.4 Requirement: Automated Bias Detection and Fairness Analysis
 **User Story:** As an AI developer, I want to upload a dataset and receive a bias analysis report so that I can assess fairness before using the data for training.
+
+#### Assumptions & Validation
+- **Assumption:** Bias detection will identify demographic and contextual data biases.
+- **Validation Methods:**
+  - Compare reports with industry benchmarks.
+  - Conduct user feedback sessions to validate report usefulness.
