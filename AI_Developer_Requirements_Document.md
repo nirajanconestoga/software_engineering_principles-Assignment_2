@@ -29,3 +29,8 @@ The functional requirements describe what the system should provide to fulfill t
 - The system shall allow users to upload datasets and automatically categorize training questions using metadata tags.
 - The system shall provide an interface for users to review, edit, and approve categorized questions.
 - Categorization shall achieve an F1-score of at least 85% on validation datasets.
+
+#### System Requirements (Supporting Functionalities)
+- The system shall use NLP libraries (e.g., spaCy) for implementing categorization models.
+- Categorized data shall be stored in a relational database (e.g., PostgreSQL) for quick access by users.
+- The backend shall handle batch uploads and provide retraining capabilities.
