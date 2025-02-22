@@ -66,3 +66,10 @@ The functional requirements describe what the system should provide to fulfill t
 
 ### 1.3 Requirement: Logical Separation of Questions and Answers
 **User Story:** As an AI developer, I want training questions to be stored separately from answers so that I can ensure unbiased model training and independent validation of AI performance.
+
+#### Assumptions & Validation
+- **Assumption:** Separating questions and answers will reduce bias in model training.
+- **Validation Methods:**
+  - Inspect database structures to confirm separation.
+  - Verify that users can independently retrieve questions or answers.
+  - Compare model fairness before and after data separation.
