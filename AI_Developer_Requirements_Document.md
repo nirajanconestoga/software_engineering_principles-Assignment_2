@@ -18,7 +18,7 @@ The functional requirements describe what the system should provide to fulfill t
   - Analyze misclassified entries to refine the categorization model.
   - Verify categorized datasets with subject matter experts.
 
-  #### Preliminary Tasks
+ #### Preliminary Tasks
 - Interview AI developers to identify pain points in manual categorization.
 - Review inconsistencies in previous dataset tagging methods.
 - Explore existing metadata standards and tools.
@@ -63,3 +63,6 @@ The functional requirements describe what the system should provide to fulfill t
 - Automatic indexing shall be triggered upon user uploads.
 
 ---
+
+### 1.3 Requirement: Logical Separation of Questions and Answers
+**User Story:** As an AI developer, I want training questions to be stored separately from answers so that I can ensure unbiased model training and independent validation of AI performance.
