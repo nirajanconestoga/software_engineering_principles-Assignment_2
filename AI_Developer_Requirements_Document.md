@@ -98,3 +98,9 @@ The functional requirements describe what the system should provide to fulfill t
 - **Validation Methods:**
   - Compare reports with industry benchmarks.
   - Conduct user feedback sessions to validate report usefulness.
+
+#### Preliminary Tasks
+- Interview users to define necessary bias metrics.
+- Review historical datasets for common bias patterns.
+- Consider a manual review approach first.
+- If insufficient, use automated detection tools (e.g., AIF360).
