@@ -34,3 +34,6 @@ The functional requirements describe what the system should provide to fulfill t
 - The system shall use NLP libraries (e.g., spaCy) for implementing categorization models.
 - Categorized data shall be stored in a relational database (e.g., PostgreSQL) for quick access by users.
 - The backend shall handle batch uploads and provide retraining capabilities.
+
+### 1.2 Requirement: Dataset Upload and Structured Storage
+**User Story:** As an AI developer, I want to upload a dataset and have the system automatically structure and store categorized training questions so that I can efficiently retrieve and manage large volumes of data.
