@@ -108,3 +108,10 @@ The functional requirements describe what the system should provide to fulfill t
 #### Functional Requirements (For AI Developers)
 - Users shall upload datasets and receive downloadable bias analysis reports.
 - The system shall present bias insights via interactive dashboards.
+
+#### System Requirements (Supporting Functionalities)
+- AIF360 and Fairlearn libraries shall power bias detection.
+- Reports shall be exportable in PDF and JSON formats.
+- Bias detection models shall auto-update for improved accuracy.
+
+---
