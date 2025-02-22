@@ -130,3 +130,7 @@ The functional requirements describe what the system should provide to fulfill t
 - Review demographic distributions in current datasets.
 - Explore manual calculations using spreadsheets as a baseline.
 - If complex, implement automated metric calculations (e.g., with Fairlearn).
+
+#### Functional Requirements (For AI Developers)
+- Users shall view and export fairness metrics (e.g., demographic parity).
+- The system shall provide actionable recommendations for balancing data.
