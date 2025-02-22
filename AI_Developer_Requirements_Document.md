@@ -21,8 +21,8 @@ Each section includes the **Requirement**, **Assumptions & Validation**, **Preli
 - Interview AI developers to identify pain points in manual categorization.
 - Review inconsistencies in previous dataset tagging methods.
 - Explore existing metadata standards and tools.
-- Consider a low-tech solution such as standardized spreadsheets.
-- If inadequate, implement the simplest technology solution such as Python-based NLP models.
+- Develop a decision matrix to select between simpler alternatives (e.g., standardized spreadsheets)
+- If inadequate, implement the simplest technology solution such as open-source Python-based NLP models.
 
 #### Functional Requirements (For AI Developers)
 - The system shall allow users to upload datasets and automatically categorize training questions using metadata tags.
