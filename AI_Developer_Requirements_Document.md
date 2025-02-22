@@ -37,3 +37,10 @@ The functional requirements describe what the system should provide to fulfill t
 
 ### 1.2 Requirement: Dataset Upload and Structured Storage
 **User Story:** As an AI developer, I want to upload a dataset and have the system automatically structure and store categorized training questions so that I can efficiently retrieve and manage large volumes of data.
+
+#### Assumptions & Validation
+- **Assumption:** Structured storage will enhance data retrieval speeds.
+- **Validation Methods:**
+  - Test uploads with datasets up to 10 million entries.
+  - Ensure retrieval times remain under 200ms during user queries.
+  - Run concurrent upload and query stress tests.
