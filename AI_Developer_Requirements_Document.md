@@ -150,3 +150,8 @@ The functional requirements describe what the system should provide to fulfill t
 - **Validation Methods:**
   - Conduct usability testing with users to measure dashboard effectiveness.
   - Validate visuals against raw data for consistency.
+
+#### Preliminary Tasks
+- Interview users to determine preferred visualization metrics.
+- Explore existing visualization solutions.
+- Begin with static charts and evolve to interactive dashboards if needed.
