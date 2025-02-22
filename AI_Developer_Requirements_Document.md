@@ -118,3 +118,9 @@ The functional requirements describe what the system should provide to fulfill t
 
 ### 1.5 Requirement: Dataset Balance Evaluation
 **User Story:** As an AI developer, I want the system to evaluate dataset balance using fairness metrics so that I can ensure diverse and representative training data.
+
+#### Assumptions & Validation
+- **Assumption:** Dataset balance evaluation will improve AI model generalization.
+- **Validation Methods:**
+  - Verify metric outputs against expert-reviewed datasets.
+  - Collect user feedback on report clarity.
