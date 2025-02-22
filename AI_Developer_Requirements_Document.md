@@ -73,3 +73,9 @@ The functional requirements describe what the system should provide to fulfill t
   - Inspect database structures to confirm separation.
   - Verify that users can independently retrieve questions or answers.
   - Compare model fairness before and after data separation.
+
+#### Preliminary Tasks
+- Interview users about issues caused by mixed data storage.
+- Review and refine current storage solutions.
+- Consider a low-tech solution (e.g., separate spreadsheets).
+- If inadequate, implement a relational database solution with distinct tables.
