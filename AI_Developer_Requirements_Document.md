@@ -83,3 +83,9 @@ The functional requirements describe what the system should provide to fulfill t
 #### Functional Requirements (For AI Developers)
 - Users shall retrieve questions and answers separately through the interface.
 - The system shall prevent cross-contamination of question and answer data during uploads.
+
+#### System Requirements (Supporting Functionalities)
+- PostgreSQL shall be used to store questions and answers in separate schemas.
+- Data pipelines shall validate user uploads to ensure proper separation.
+
+---
