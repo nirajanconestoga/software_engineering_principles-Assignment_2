@@ -141,3 +141,6 @@ The functional requirements describe what the system should provide to fulfill t
 - Exports shall be available in standard data formats.
 
 ---
+
+### 1.6 Requirement: Visual Analytics for Data Assessment
+**User Story:** As an AI developer, I want the system to provide visual analytics for assessing dataset distribution so that I can identify imbalances easily.
