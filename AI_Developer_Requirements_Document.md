@@ -155,3 +155,7 @@ The functional requirements describe what the system should provide to fulfill t
 - Interview users to determine preferred visualization metrics.
 - Explore existing visualization solutions.
 - Begin with static charts and evolve to interactive dashboards if needed.
+
+#### Functional Requirements (For AI Developers)
+- Users shall explore dataset metrics via interactive visualizations.
+- Visual tools shall allow users to filter, zoom, and export visuals.
