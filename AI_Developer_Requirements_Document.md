@@ -115,3 +115,6 @@ The functional requirements describe what the system should provide to fulfill t
 - Bias detection models shall auto-update for improved accuracy.
 
 ---
+
+### 1.5 Requirement: Dataset Balance Evaluation
+**User Story:** As an AI developer, I want the system to evaluate dataset balance using fairness metrics so that I can ensure diverse and representative training data.
