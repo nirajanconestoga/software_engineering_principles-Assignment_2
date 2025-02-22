@@ -89,3 +89,6 @@ The functional requirements describe what the system should provide to fulfill t
 - Data pipelines shall validate user uploads to ensure proper separation.
 
 ---
+
+### 1.4 Requirement: Automated Bias Detection and Fairness Analysis
+**User Story:** As an AI developer, I want to upload a dataset and receive a bias analysis report so that I can assess fairness before using the data for training.
