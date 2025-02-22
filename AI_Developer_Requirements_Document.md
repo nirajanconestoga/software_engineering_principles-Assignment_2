@@ -144,3 +144,9 @@ The functional requirements describe what the system should provide to fulfill t
 
 ### 1.6 Requirement: Visual Analytics for Data Assessment
 **User Story:** As an AI developer, I want the system to provide visual analytics for assessing dataset distribution so that I can identify imbalances easily.
+
+#### Assumptions & Validation
+- **Assumption:** Visual tools will improve user understanding of data distribution.
+- **Validation Methods:**
+  - Conduct usability testing with users to measure dashboard effectiveness.
+  - Validate visuals against raw data for consistency.
