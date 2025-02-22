@@ -24,3 +24,8 @@ The functional requirements describe what the system should provide to fulfill t
 - Explore existing metadata standards and tools.
 - Consider a low-tech solution such as standardized spreadsheets.
 - If inadequate, implement the simplest technology solution such as Python-based NLP models.
+
+#### Functional Requirements (For AI Developers)
+- The system shall allow users to upload datasets and automatically categorize training questions using metadata tags.
+- The system shall provide an interface for users to review, edit, and approve categorized questions.
+- Categorization shall achieve an F1-score of at least 85% on validation datasets.
