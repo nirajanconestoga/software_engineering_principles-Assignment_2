@@ -56,3 +56,10 @@ The functional requirements describe what the system should provide to fulfill t
 - Users shall be able to upload datasets through a web interface or API.
 - The system shall automatically structure uploaded datasets for easy retrieval.
 - Users shall retrieve categorized data with sub-200ms response times.
+
+#### System Requirements (Supporting Functionalities)
+- The system shall use Elasticsearch for fast search and retrieval.
+- Data shall be stored using scalable solutions (e.g., AWS S3).
+- Automatic indexing shall be triggered upon user uploads.
+
+---
