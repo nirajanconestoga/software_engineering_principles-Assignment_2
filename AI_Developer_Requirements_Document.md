@@ -134,3 +134,10 @@ The functional requirements describe what the system should provide to fulfill t
 #### Functional Requirements (For AI Developers)
 - Users shall view and export fairness metrics (e.g., demographic parity).
 - The system shall provide actionable recommendations for balancing data.
+
+#### System Requirements (Supporting Functionalities)
+- Python libraries (Fairlearn) shall calculate fairness metrics.
+- Results shall be displayed via interactive dashboards for users.
+- Exports shall be available in standard data formats.
+
+---
