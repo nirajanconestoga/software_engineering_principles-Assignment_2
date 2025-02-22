@@ -124,3 +124,9 @@ The functional requirements describe what the system should provide to fulfill t
 - **Validation Methods:**
   - Verify metric outputs against expert-reviewed datasets.
   - Collect user feedback on report clarity.
+
+#### Preliminary Tasks
+- Conduct workshops with users to identify fairness concerns.
+- Review demographic distributions in current datasets.
+- Explore manual calculations using spreadsheets as a baseline.
+- If complex, implement automated metric calculations (e.g., with Fairlearn).
