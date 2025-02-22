@@ -18,7 +18,7 @@ The functional requirements describe what the system should provide to fulfill t
   - Analyze misclassified entries to refine the categorization model.
   - Verify categorized datasets with subject matter experts.
 
- #### Preliminary Tasks
+#### Preliminary Tasks
 - Interview AI developers to identify pain points in manual categorization.
 - Review inconsistencies in previous dataset tagging methods.
 - Explore existing metadata standards and tools.
@@ -34,6 +34,8 @@ The functional requirements describe what the system should provide to fulfill t
 - The system shall use NLP libraries (e.g., spaCy) for implementing categorization models.
 - Categorized data shall be stored in a relational database (e.g., PostgreSQL) for quick access by users.
 - The backend shall handle batch uploads and provide retraining capabilities.
+
+---
 
 ### 1.2 Requirement: Dataset Upload and Structured Storage
 **User Story:** As an AI developer, I want to upload a dataset and have the system automatically structure and store categorized training questions so that I can efficiently retrieve and manage large volumes of data.
