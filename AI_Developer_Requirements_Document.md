@@ -79,3 +79,7 @@ The functional requirements describe what the system should provide to fulfill t
 - Review and refine current storage solutions.
 - Consider a low-tech solution (e.g., separate spreadsheets).
 - If inadequate, implement a relational database solution with distinct tables.
+
+#### Functional Requirements (For AI Developers)
+- Users shall retrieve questions and answers separately through the interface.
+- The system shall prevent cross-contamination of question and answer data during uploads.
