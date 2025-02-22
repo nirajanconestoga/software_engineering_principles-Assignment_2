@@ -111,7 +111,7 @@ Each section includes the **Requirement**, **Assumptions & Validation**, **Preli
 - The system shall present bias insights via interactive dashboards.
 
 #### System Requirements (Supporting Functionalities)
-- AIF360 and Fairlearn libraries shall power bias detection.
+- Opensouch toolkit like AIF360 and Fairlearn libraries shall power bias detection.
 - Reports shall be exportable in PDF and JSON formats.
 - Bias detection models shall auto-update for improved accuracy.
 
@@ -137,7 +137,7 @@ Each section includes the **Requirement**, **Assumptions & Validation**, **Preli
 - The system shall provide actionable recommendations for balancing data.
 
 #### System Requirements (Supporting Functionalities)
-- Python libraries (Fairlearn) shall calculate fairness metrics.
+- Python libraries such as Fairlearn shall calculate fairness metrics.
 - Results shall be displayed via interactive dashboards for users.
 - Exports shall be available in standard data formats.
 
@@ -162,6 +162,6 @@ Each section includes the **Requirement**, **Assumptions & Validation**, **Preli
 - Visual tools shall allow users to filter, zoom, and export visuals.
 
 #### System Requirements (Supporting Functionalities)
-- Plotly and D3.js shall power the visualization components.
+- Javascript libraries such as "Plotly" and "D3.js" shall power the visualization components.
 - Dashboards shall support datasets of up to 10 million entries without lag.
 - Visualizations shall be responsive across devices for user convenience.
