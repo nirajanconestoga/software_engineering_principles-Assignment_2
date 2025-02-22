@@ -159,3 +159,8 @@ The functional requirements describe what the system should provide to fulfill t
 #### Functional Requirements (For AI Developers)
 - Users shall explore dataset metrics via interactive visualizations.
 - Visual tools shall allow users to filter, zoom, and export visuals.
+
+#### System Requirements (Supporting Functionalities)
+- Plotly and D3.js shall power the visualization components.
+- Dashboards shall support datasets of up to 10 million entries without lag.
+- Visualizations shall be responsive across devices for user convenience.
