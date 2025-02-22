@@ -38,7 +38,7 @@ Each section includes the **Requirement**, **Assumptions & Validation**, **Preli
 **User Story:** As an AI developer, I want to upload a dataset and have the system automatically structure and store categorized training questions so that I can efficiently retrieve and manage large volumes of data.
 
 #### Assumptions & Validation
-- **Assumption:** Structured storage will enhance data retrieval speeds.
+- **Assumption:** Structured storage with appropriate indexing will enhance data retrieval speeds.
 - **Validation Methods:**
   - Test uploads with datasets up to 10 million entries.
   - Ensure retrieval times remain under 200ms during user queries.
