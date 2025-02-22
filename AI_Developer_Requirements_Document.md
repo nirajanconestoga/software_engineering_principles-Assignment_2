@@ -17,3 +17,10 @@ The functional requirements describe what the system should provide to fulfill t
   - Review categorization results across various question formats.
   - Analyze misclassified entries to refine the categorization model.
   - Verify categorized datasets with subject matter experts.
+
+  #### Preliminary Tasks
+- Interview AI developers to identify pain points in manual categorization.
+- Review inconsistencies in previous dataset tagging methods.
+- Explore existing metadata standards and tools.
+- Consider a low-tech solution such as standardized spreadsheets.
+- If inadequate, implement the simplest technology solution such as Python-based NLP models.
