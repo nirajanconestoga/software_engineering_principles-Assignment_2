@@ -44,3 +44,10 @@ The functional requirements describe what the system should provide to fulfill t
   - Test uploads with datasets up to 10 million entries.
   - Ensure retrieval times remain under 200ms during user queries.
   - Run concurrent upload and query stress tests.
+
+#### Preliminary Tasks
+- Interview AI developers about dataset storage challenges.
+- Analyze inefficiencies in previous storage methods.
+- Explore suitable indexing solutions.
+- Consider a low-tech solution (e.g., structured CSV files).
+- If inadequate, implement a technology solution such as Elasticsearch.
