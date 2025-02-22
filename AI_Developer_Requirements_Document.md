@@ -104,3 +104,7 @@ The functional requirements describe what the system should provide to fulfill t
 - Review historical datasets for common bias patterns.
 - Consider a manual review approach first.
 - If insufficient, use automated detection tools (e.g., AIF360).
+
+#### Functional Requirements (For AI Developers)
+- Users shall upload datasets and receive downloadable bias analysis reports.
+- The system shall present bias insights via interactive dashboards.
