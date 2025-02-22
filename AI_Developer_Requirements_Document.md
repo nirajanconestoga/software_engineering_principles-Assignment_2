@@ -51,3 +51,8 @@ The functional requirements describe what the system should provide to fulfill t
 - Explore suitable indexing solutions.
 - Consider a low-tech solution (e.g., structured CSV files).
 - If inadequate, implement a technology solution such as Elasticsearch.
+
+#### Functional Requirements (For AI Developers)
+- Users shall be able to upload datasets through a web interface or API.
+- The system shall automatically structure uploaded datasets for easy retrieval.
+- Users shall retrieve categorized data with sub-200ms response times.
